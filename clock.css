@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.headtop {
+    text-align: center;
+    color: rgb(146, 4, 4);
+    margin-top: 16px;
+    border: 1px solid rgb(163, 80, 3);
+}
